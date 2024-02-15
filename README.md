@@ -12,6 +12,7 @@
 - 🧮 <a href="https://github.com/KanekiZLF/CalculadoraJava">Calculadora em Java</a>
 - 🐷 <a href="https://gx.games/pt-br/games/jwgudw/revolta-dos-porquinhos-luiz-f-r-pimentel/tracks/bad7e25b-81a3-4d89-b690-65663ef7e815/"> A Revolta dos Porquinhos o Jogo</a>
 - 🕹️ <a href="https://kanekizlf.github.io/Pokedex-React.js/">Pokedex em React.js</a></b>
+- 🚫 <a href="https://github.com/KanekiZLF/FirewallBlocker">FirewallBlocker</a></b>
 
 
 ## GitHub Stats
