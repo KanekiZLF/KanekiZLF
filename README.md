@@ -34,6 +34,6 @@
   <img align="center" alt="LF-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   
   <img align="center" alt="LF-GameMaker2" height="30" width="30" src="https://images.sftcdn.net/images/t_app-icon-m/p/857aef91-1205-4de4-895b-125e66acb5b7/3172864888/gamemaker-studio-icon.png" />
-
- <img align="center" alt="LF-GameMaker2" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" />
+&nbsp;&nbsp;
+ <img align="center" alt="LF-Java" height="30" width="30" src="https://static-00.iconduck.com/assets.00/java-icon-512x512-kvr1nudq.png" />
 </div>
