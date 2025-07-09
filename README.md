@@ -36,5 +36,5 @@
   
   <img align="center" alt="LF-GameMaker2" height="30" width="30" src="https://images.sftcdn.net/images/t_app-icon-m/p/857aef91-1205-4de4-895b-125e66acb5b7/3172864888/gamemaker-studio-icon.png" />
 &nbsp;&nbsp;
- <img align="center" alt="LF-Java" height="30" width="30" src="https://static-00.iconduck.com/assets.00/java-icon-512x512-kvr1nudq.png" />
+ <img align="center" alt="LF-Java" height="30" width="30" src="https://skillicons.dev/icons?i=java&theme=light" />
 </div>
