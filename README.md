@@ -10,7 +10,7 @@
 
 
 ## 👾 Alguns Projetos
-- 💻 <b><a href="https://portfolio-luizfernando-a100.onrender.com">Portfolio</a>
+- 💻 <b><a href="https://portfolio-luizfernando-a100.onrender.com">Portfólio</a>
 - 🎮 <a href="https://github.com/KanekiZLF/Stream-Deck-Esp32">Stream Deck Esp32</a>
 - 🤖 <a href="https://github.com/KanekiZLF/PrismaFX---Gerador-ImageFX-em-Lote">PrismaFX - Gerador ImageFX em Lote</a>
 - 🎨 <a href="https://github.com/KanekiZLF/TFT-Screen-Layout-Helper">TFT Screen Layout Helper</a>
