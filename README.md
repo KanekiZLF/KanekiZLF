@@ -30,6 +30,11 @@
   <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanekiZLF&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+## TryHackMe Stats
+<div>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/KanekiZLF1.png" alt="Your Image Badge" />
+</div>
+
 ## ⚡ Tecnologias
 <div style="display: inline_block">
   <img align="center" alt="LF-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
